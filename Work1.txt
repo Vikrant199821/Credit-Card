@@ -1,0 +1,60 @@
+Bank Admin
+
+
+Register and Login
+
+Bank Admin's Profile 
+,View Users and Authorize 
+,View Ecommerce Website Users and Authorize
+,Add Bank 
+,View Bank Details 
+,View Credit Card Requests 
+,View all Products with rank 
+,View all Financial Frauds 
+,View all Financial Frauds with Random Forest Tree With wrong CVV 
+,View all Financial Frauds with Random Forest Tree with Expired Date Usage 
+,List Of all Users with Majority of Financial Fraud 
+,Show Product Rank In Chart 
+,Show Majority Voting With Wrong CVV Fraud in chart 
+,Show Majority Voting with Expiry date Usage in chart 
+
+
+
+
+
+E commerce Website
+
+
+Register and Login
+,Add Category
+,Add Products
+,View all Products with rank
+,View all Purchased Products with total bill
+,View All Financial Frauds
+
+
+End User 
+
+
+Register and Login
+,View My Profile
+,Manage Bank Account 
+,Request Credit Card 
+,View Credit Card Details 
+,Transfer Money To Your Credit Card Account 
+,Search For Products By Keyword
+,View all Purchased Products with Total Bill 
+
+
+
+
+
+
+Select product Category,Product Name,product Price,product Product Manufacture,Model,Description,Select product Image 
+
+
+
+
+
+
+
